@@ -3,15 +3,43 @@
   "WorkspaceRootPath": "D:\\Unityy\\\u9879\u76EE\\Adventure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33937CBC-456E-2B3B-AD4B-9EE246125F00}|Assembly-CSharp.csproj|d:\\unityy\\\u9879\u76EE\\adventure\\assets\\scripts\\general\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33937CBC-456E-2B3B-AD4B-9EE246125F00}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33937CBC-456E-2B3B-AD4B-9EE246125F00}|Assembly-CSharp.csproj|D:\\Unityy\\\u9879\u76EE\\Adventure\\assets\\scripts\\transition\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33937CBC-456E-2B3B-AD4B-9EE246125F00}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\transition\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33937CBC-456E-2B3B-AD4B-9EE246125F00}|Assembly-CSharp.csproj|D:\\Unityy\\\u9879\u76EE\\Adventure\\assets\\scripts\\transition\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33937CBC-456E-2B3B-AD4B-9EE246125F00}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\transition\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33937CBC-456E-2B3B-AD4B-9EE246125F00}|Assembly-CSharp.csproj|D:\\Unityy\\\u9879\u76EE\\Adventure\\assets\\scripts\\utilitiy\\cameracontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33937CBC-456E-2B3B-AD4B-9EE246125F00}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilitiy\\cameracontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33937CBC-456E-2B3B-AD4B-9EE246125F00}|Assembly-CSharp.csproj|d:\\unityy\\\u9879\u76EE\\adventure\\assets\\scripts\\script object\\voideventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unityy\\\u9879\u76EE\\Adventure\\Library\\PackageCache\\com.unity.addressables@1.21.21\\Runtime\\AddressablesImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.addressables@1.21.21\\Runtime\\AddressablesImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33937CBC-456E-2B3B-AD4B-9EE246125F00}|Assembly-CSharp.csproj|D:\\Unityy\\\u9879\u76EE\\Adventure\\assets\\scripts\\script object\\gamesceneso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33937CBC-456E-2B3B-AD4B-9EE246125F00}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\script object\\gamesceneso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33937CBC-456E-2B3B-AD4B-9EE246125F00}|Assembly-CSharp.csproj|D:\\Unityy\\\u9879\u76EE\\Adventure\\assets\\scripts\\utilitiy\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33937CBC-456E-2B3B-AD4B-9EE246125F00}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilitiy\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33937CBC-456E-2B3B-AD4B-9EE246125F00}|Assembly-CSharp.csproj|D:\\Unityy\\\u9879\u76EE\\Adventure\\assets\\scripts\\script object\\sceneloadeventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33937CBC-456E-2B3B-AD4B-9EE246125F00}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\script object\\sceneloadeventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unityy\\\u9879\u76EE\\Adventure\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.9\\Runtime\\UniversalRenderPipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.9\\Runtime\\UniversalRenderPipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33937CBC-456E-2B3B-AD4B-9EE246125F00}|Assembly-CSharp.csproj|D:\\Unityy\\\u9879\u76EE\\Adventure\\assets\\scripts\\general\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33937CBC-456E-2B3B-AD4B-9EE246125F00}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33937CBC-456E-2B3B-AD4B-9EE246125F00}|Assembly-CSharp.csproj|D:\\Unityy\\\u9879\u76EE\\Adventure\\assets\\scripts\\script object\\voideventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33937CBC-456E-2B3B-AD4B-9EE246125F00}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\script object\\voideventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -74,11 +102,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Exit.cs",
+              "DocumentMoniker": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\Transition\\Exit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Transition\\Exit.cs",
+              "ToolTip": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\Transition\\Exit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Transition\\Exit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:01:23.325Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddressablesImpl.cs",
+              "DocumentMoniker": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Library\\PackageCache\\com.unity.addressables@1.21.21\\Runtime\\AddressablesImpl.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.addressables@1.21.21\\Runtime\\AddressablesImpl.cs",
+              "ToolTip": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Library\\PackageCache\\com.unity.addressables@1.21.21\\Runtime\\AddressablesImpl.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.addressables@1.21.21\\Runtime\\AddressablesImpl.cs",
+              "ViewState": "AgIAAEsFAAAAAAAAAAArwFoFAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:58:24.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\Utilitiy\\Enum.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilitiy\\Enum.cs",
+              "ToolTip": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\Utilitiy\\Enum.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilitiy\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:37:25.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\Transition\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Transition\\SceneLoader.cs",
+              "ToolTip": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\Transition\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Transition\\SceneLoader.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwCMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:18:25.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameSceneSO.cs",
+              "DocumentMoniker": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\Script Object\\GameSceneSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Script Object\\GameSceneSO.cs",
+              "ToolTip": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\Script Object\\GameSceneSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Script Object\\GameSceneSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:12:58.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SceneLoadEventSO.cs",
+              "DocumentMoniker": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\Script Object\\SceneLoadEventSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Script Object\\SceneLoadEventSO.cs",
+              "ToolTip": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\Script Object\\SceneLoadEventSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Script Object\\SceneLoadEventSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:10:01.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UniversalRenderPipeline.cs",
+              "DocumentMoniker": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.9\\Runtime\\UniversalRenderPipeline.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.9\\Runtime\\UniversalRenderPipeline.cs",
+              "ToolTip": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.9\\Runtime\\UniversalRenderPipeline.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.9\\Runtime\\UniversalRenderPipeline.cs",
+              "ViewState": "AgIAADgCAAAAAAAAAAAMwGICAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T10:45:20.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "VoidEventSO.cs",
               "DocumentMoniker": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\Script Object\\VoidEventSO.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Script Object\\VoidEventSO.cs",
@@ -86,25 +202,23 @@
               "RelativeToolTip": "Assets\\Scripts\\Script Object\\VoidEventSO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T04:39:50.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T04:39:50.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CameraControl.cs",
               "DocumentMoniker": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\Utilitiy\\CameraControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Utilitiy\\CameraControl.cs",
               "ToolTip": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\Utilitiy\\CameraControl.cs",
               "RelativeToolTip": "Assets\\Scripts\\Utilitiy\\CameraControl.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwCAAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwC4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T04:26:57.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T04:26:57.664Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Enemy.cs",
               "DocumentMoniker": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\Enemy\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
@@ -116,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Boar.cs",
               "DocumentMoniker": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\Enemy\\Boar.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boar.cs",
@@ -128,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "PlayerStatBar.cs",
               "DocumentMoniker": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\General\\PlayerStatBar.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\General\\PlayerStatBar.cs",
@@ -140,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "UIManager.cs",
               "DocumentMoniker": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\General\\UIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\General\\UIManager.cs",
@@ -152,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "CharaterEventSO.cs",
               "DocumentMoniker": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\Script Object\\CharaterEventSO.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Script Object\\CharaterEventSO.cs",
@@ -164,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "Gem.cs",
               "DocumentMoniker": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\General\\Gem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Gem.cs",
@@ -176,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "GameController.cs",
               "DocumentMoniker": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\General\\GameController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\General\\GameController.cs",
@@ -188,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "AttackFinish.cs",
               "DocumentMoniker": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\AttackFinish.cs",
               "RelativeDocumentMoniker": "Assets\\AttackFinish.cs",
@@ -200,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "HurtAnimation.cs",
               "DocumentMoniker": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\Player\\HurtAnimation.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\HurtAnimation.cs",
@@ -212,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "PhysicsCheck.cs",
               "DocumentMoniker": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\General\\PhysicsCheck.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\General\\PhysicsCheck.cs",
@@ -224,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "Attack.cs",
               "DocumentMoniker": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\General\\Attack.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Attack.cs",
@@ -236,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Character.cs",
               "DocumentMoniker": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\General\\Character.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Character.cs",
@@ -244,12 +358,11 @@
               "RelativeToolTip": "Assets\\Scripts\\General\\Character.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAYwD4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T03:05:08.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T03:05:08.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "PlayerAnimation.cs",
               "DocumentMoniker": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\Player\\PlayerAnimation.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAnimation.cs",
@@ -261,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\Unityy\\\u9879\u76EE\\Adventure\\Assets\\Scripts\\Player\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",

@@ -60,6 +60,12 @@ TagManager:
   - name: back6
     uniqueID: 824218863
     locked: 0
+  - name: back7
+    uniqueID: 2161191403
+    locked: 0
+  - name: back8
+    uniqueID: 3650899499
+    locked: 0
   - name: middle
     uniqueID: 1419684387
     locked: 0
