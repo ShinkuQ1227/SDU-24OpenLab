@@ -50,6 +50,15 @@ TagManager:
   - name: back3
     uniqueID: 2557461497
     locked: 0
+  - name: back4
+    uniqueID: 1471386211
+    locked: 0
+  - name: back5
+    uniqueID: 522453625
+    locked: 0
+  - name: back6
+    uniqueID: 824218863
+    locked: 0
   - name: middle
     uniqueID: 1419684387
     locked: 0
